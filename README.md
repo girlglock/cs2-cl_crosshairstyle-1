@@ -1,4 +1,5 @@
 # CS2 cl_crosshairstyle 1 RTSS Overlay
+![cs2_d6zyOSlDrf](https://github.com/user-attachments/assets/d9da1197-8ca9-4cfa-8286-29dda8b134b4)
 
 ## Setup
 
