@@ -22,9 +22,9 @@
 
 - Load the preset that matches your cs2 res.
 
-- Add this launch option:  
+- Add this launch options:  
   ```
-  -allow_third_party_software
+  -allow_third_party_software +crosshair 0
   ```
 
 > [!TIP]
